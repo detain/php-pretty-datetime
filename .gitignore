@@ -2,3 +2,6 @@ vendor/
 composer.lock
 .DS_Store
 
+
+# Caliber local state
+.caliber/
