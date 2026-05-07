@@ -1,7 +1,26 @@
 {
     "name": "detain/php-pretty-datetime",
     "description": "Generates human-readable strings for PHP DateTime objects",
-    "keywords": ["human", "readable", "pretty", "datetime", "date", "time", "string"],
+    "keywords": [
+        "human",
+        "readable",
+        "pretty",
+        "datetime",
+        "date",
+        "time",
+        "string",
+        "natural-language",
+        "pretty-datetime",
+        "relative-time",
+        "time-ago",
+        "datetime-formatting",
+        "datetime-parsing",
+        "date-formatting",
+        "human-readable",
+        "human-friendly",
+        "timestamp",
+        "php"
+    ],
     "license": "MIT",
     "authors": [
         {
